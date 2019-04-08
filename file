@@ -1,0 +1,33 @@
+@fname"Fawad";
+@lname"Hussain";
+@ch 'A'
+,'\n'
+@num,2.34e6;
+@numm,2e6;
+@nummm,2.8e5;
+
+//My name is Fawad and my roll # is SP16-bcs-149
+
+/*
+Fawad hussain is Doing Computer Science From
+COMSATS University Islamabad
+Lahore campus
+**/
+
+/
+
+2/5;
+
+[,{,(,),},]
+
+*,>
+
++,+=,++
+
+-,--,-=
+
+<,<>
+
+==,:=,&&,||
+
+IF,INT,FLOAT,FOR,BREAK,SWITCH,CASE,CHAR,VOID,ELSE,DO,WHILE

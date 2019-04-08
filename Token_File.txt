@@ -1,0 +1,57 @@
+_______Generated Tokens_______
+
+<ID, @fname >
+<String, "Fawad" >
+<ID, @lname >
+<String, "Hussain" >
+<ID, @ch >
+<Char, 'A' >
+<Char, '\n' >
+<ID, @num >
+<Digit, 2.34e6 >
+<ID, @numm >
+<Digit, 2e6 >
+<ID, @nummm >
+<Digit, 2.8e5 >
+<SingleLine_Comment, //My name is Fawad and my roll # is SP16-bcs-149 >
+<MultiLine_Comment, /*
+Fawad hussain is Doing Computer Science From
+COMSATS University Islamabad
+Lahore campus
+**/ >
+<Divide, / >
+<Digit, 2 >
+<Divide, / >
+<Digit, 5 >
+<LSBracket, [ >
+<LCBracket, { >
+<LRBracket, ( >
+<RRBracket, ) >
+<RCBracket, } >
+<RSBracket, ] >
+<Mul, * >
+<Greater_sign, > >
+<Plus, + >
+<PlusEqual, += >
+<PlusPlus, ++ >
+<Minus, - >
+<MinusMinus, -- >
+<MinusEqual, -= >
+<LessSign, < >
+<NotEqual, <> >
+<EqualEqual, == >
+<Assgin_op, := >
+<And_op, && >
+<OR_op, || >
+<Res, IF >
+<Res, INT >
+<Res, FLOAT >
+<Res, FOR >
+<Res, BREAK >
+<Res, SWITCH >
+<Res, CASE >
+<Res, CHAR >
+<Res, VOID >
+<Res, ELSE >
+<Res, DO >
+<Res, WHILE >
